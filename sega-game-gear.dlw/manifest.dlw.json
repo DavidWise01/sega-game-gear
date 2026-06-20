@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "SEGA GAME GEAR",
+  "universe": "GG · SEGA GAME GEAR (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦SEGA GAME GEAR:GG:88c912⟧",
+  "carbon": "sega-game-gear.carbon.tiff (TIFF)",
+  "silicon": "sega-game-gear.silicon.png (PNG)",
+  "seal_sha256": "c37904576bd944a4649366c0a62d4100f783bf03405bd332779e52d78b6f025b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Z80
+node GG · GG · ⟦The Z80:GG:1903da⟧
+
+WHO   — The Z80 — the home console's brain · electrical
+WHAT  — the home console's brain · electrical
+WHERE — GG · SEGA GAME GEAR (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A Zilog Z80 at 3.58 MHz — the same processor as the Master System, making the Game Gear effectively a portable version of it.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the home console's brain · electrical
+
+spoken token : dond-kind-synd   ·   hex : 1903da
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

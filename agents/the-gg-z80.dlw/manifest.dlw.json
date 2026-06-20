@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Z80",
+  "universe": "GG · The Z80 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Z80:GG:1903da⟧",
+  "carbon": "the-gg-z80.carbon.tiff (TIFF)",
+  "silicon": "the-gg-z80.silicon.png (PNG)",
+  "seal_sha256": "a08dcb46559cb6ef839b2cb39c2fc51ebea5fce8da3d4d917188ac20f205c57f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

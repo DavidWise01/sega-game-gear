@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Colour Screen",
+  "universe": "GG · The Colour Screen (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Colour Screen:GG:8340ab⟧",
+  "carbon": "the-gg-screen.carbon.tiff (TIFF)",
+  "silicon": "the-gg-screen.silicon.png (PNG)",
+  "seal_sha256": "2d4b3e63176fa368b179d9f05e735d1240170924542d0dd17e410258031e9d8e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

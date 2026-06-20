@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The VDP
+node GG · GG · ⟦The VDP:GG:78a610⟧
+
+WHO   — The VDP — colour from the home line · electrical
+WHAT  — colour from the home line · electrical
+WHERE — GG · SEGA GAME GEAR (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A video chip derived from the Master System's, painting vivid colour graphics — the basis of the Game Gear's strong, easily-ported library.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  colour from the home line · electrical
+
+spoken token : xyl-stynd-ror   ·   hex : 78a610
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

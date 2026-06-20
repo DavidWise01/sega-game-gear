@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-gg-z80",
+    "name": "The Z80",
+    "epithet": "the home console's brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Z80:GG:1903da⟧"
+  },
+  {
+    "slug": "the-gg-vdp",
+    "name": "The VDP",
+    "epithet": "colour from the home line · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The VDP:GG:78a610⟧"
+  },
+  {
+    "slug": "the-gg-psg",
+    "name": "The Sound",
+    "epithet": "square waves and noise · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Sound:GG:6b2a98⟧"
+  },
+  {
+    "slug": "the-gg-screen",
+    "name": "The Colour Screen",
+    "epithet": "vivid, in the dark · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Colour Screen:GG:8340ab⟧"
+  },
+  {
+    "slug": "the-gg-battery",
+    "name": "The Batteries",
+    "epithet": "three to five hours · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Batteries:GG:a8d2f7⟧"
+  },
+  {
+    "slug": "the-gg-tuner",
+    "name": "The TV Tuner",
+    "epithet": "a television in your hands · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The TV Tuner:GG:3e53f1⟧"
+  }
+]
